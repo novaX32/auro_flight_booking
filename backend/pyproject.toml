@@ -6,4 +6,9 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "fastapi[standard]>=0.135.2",
+<<<<<<< HEAD
+=======
+    "httpx>=0.28.1",
+    "pytest>=9.0.3",
+>>>>>>> ab8be76 (setup docker compose and precommit)
 ]

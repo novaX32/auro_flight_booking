@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 .venv
+=======
+__pycache__/
+*.pyc
+.venv/
+>>>>>>> ab8be76 (setup docker compose and precommit)
